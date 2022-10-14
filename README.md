@@ -1,4 +1,4 @@
-# Message-Website_Using_Flask
+# Message_Website
 Make sure that you have flask installed in your PC.
 
 1. Download the MessageCSS folder.
